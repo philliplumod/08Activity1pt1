@@ -1,4 +1,4 @@
-package eight_activity;
+package flores;
 
 interface HasWings {
     public int getNumberOfWings();

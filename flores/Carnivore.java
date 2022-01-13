@@ -1,5 +1,4 @@
-package eight_activity;
-
+package flores;
 public interface Carnivore {
     int pieces = 10;
     public static void eatGrass() {
